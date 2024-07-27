@@ -1,7 +1,10 @@
-# Welcome to official Minecraft I.V website
-Its the official Minecraft I.V website
-We are currently making Minecraft I.V and a full release is coming soon!
+# Welcome to official Project Minecraft I.V website
+### We are currently making Minecraft I.V!
 
-Please join to Discord server : https://discord.gg/awnRGCFpxK
+# Minecraft I.V :
 
-Download build 1 : https://drive.google.com/drive/u/0/folders/1a9BxkfWAila1zFFRuLRkkXnNjstW9O4f
+Info :
+
+Join to Discord server : [https://discord.gg/awnRGCFpxK](link)
+
+Download Release 1.0 : [[https://drive.google.com/drive/u/0/folders/1p7nAvUsWR8eOnsnJFv9WVKuq5cIktBov](Link)
