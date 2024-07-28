@@ -86,7 +86,6 @@
                 <li><strong>Discord:</strong> <a href="https://discord.gg/awnRGCFpxK" target="_blank">Discord</a></li>
             </ul>
         </section>
-    </div>
 
     <footer>
         <p>&copy; Project Minecraft I.V. All rights reserved.</p>
