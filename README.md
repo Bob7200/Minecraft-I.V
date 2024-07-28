@@ -60,9 +60,6 @@
             <p>Welcome to official Project Minecraft I.V website.</p>
         </section>
 
-            </ol>
-        </section>
-
         <section id="links">
             <h2>Links</h2>
             <p>The Minecraft I.V links :</p>
