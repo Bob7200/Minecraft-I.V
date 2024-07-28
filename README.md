@@ -48,7 +48,7 @@
     <header>
         <nav>
             <a href="#">Main Menu</a>
-            <a href="m11101">Minecraft I.V 1.1.1_01</a>
+            <a href="m11101">Minecraft I.V</a>
         </nav><br>
         <h1>Minecraft I.V</h1>
     </header>
