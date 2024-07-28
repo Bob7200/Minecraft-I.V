@@ -66,8 +66,6 @@
                 <li><strong>New main menu </strong>
                 <li><strong>New textures:</strong>
                 <li><strong>Updates:</strong>
-            </ul>
-        </section>
 
         <section id="installation">
             <h2>How to download ?</h2>
