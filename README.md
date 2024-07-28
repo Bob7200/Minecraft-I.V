@@ -58,7 +58,6 @@
         <section id="overview">
             <h2>Overview</h2>
             <p>Welcome to official Project Minecraft I.V website.</p>
-        </section>
 
         <section id="links">
             <h2>Links</h2>
