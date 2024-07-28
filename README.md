@@ -1,10 +1,95 @@
-# Welcome to official Project Minecraft I.V website
-### We are currently making Minecraft I.V!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft I.V</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+			color: #333;
+			background-color: #f2f2f2;
+        }
+        header {
+            background-color: #c67786;
+            color: white;
+            padding: 15px 0;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            margin-top: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        .container {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        footer {
+            background-color: #e3e3e3;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="#">Minecraft I.V</a>
+            <a href="m11101">Minecraft I.V 1.1.1_01</a>
+        </nav><br>
+        <h1>Minecraft I.V</h1>
+    </header>
 
-# Minecraft I.V :
+    <div class="container">
+        <section id="overview">
+            <h2>Overview</h2>
+            <p>Welcome to official Project Minecraft I.V website.</p>
+        </section>
 
-Info :
+        <section id="Added">
+            <h2>Added</h2>
+            <ul>
+                <li><strong>New block </strong>
+                <li><strong>New main menu </strong>
+                <li><strong>New textures:</strong>
+                <li><strong>Updates:</strong>
+            </ul>
+        </section>
 
-Join to Discord server : [https://discord.gg/awnRGCFpxK](link)
+        <section id="installation">
+            <h2>How to download ?</h2>
+            <ol>
+                <li>Download the release 1.0 of Minecraft I.V from <a href="https://drive.google.com/drive/u/0/folders/1p7nAvUsWR8eOnsnJFv9WVKuq5cIktBov">Google disc</a></li>
+                <li>Extract the files to your launcher folder (: C:\Users\Name\AppData\Roaming\Launcher)</li>
+                <li>Open the Minecraft I.V and enjoy!</li>
+            </ol>
+        </section>
 
-Download Release 1.0 : [[https://drive.google.com/drive/u/0/folders/1p7nAvUsWR8eOnsnJFv9WVKuq5cIktBov](Link)
+        <section id="links">
+            <h2>Links</h2>
+            <p>The Minecraft I.V links :</p>
+            <ul>
+                <li><strong>Email:</strong> minecraftiv502@gmail.com</li>
+                <li><strong>Discord:</strong> <a href="https://discord.gg/awnRGCFpxK" target="_blank">Discord</a></li>
+            </ul>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; Project Minecraft I.V. All rights reserved.</p>
+    </footer>
+</body>
+</html>
