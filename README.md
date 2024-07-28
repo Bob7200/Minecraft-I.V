@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -47,9 +46,8 @@
 <body>
     <header>
         <nav>
-            <a href="#">Main Menu</a>
-            <a href="m11101">Minecraft I.V</a>
-            <a href="m11102">Minecraft I.V 1.1.1_01</a>
+            <a href="#">Minecraft I.V</a>
+            <a href="m11101.html">Minecraft I.V 1.1.1_01</a>
         </nav><br>
         <h1>Minecraft I.V</h1>
     </header>
@@ -58,6 +56,26 @@
         <section id="overview">
             <h2>Overview</h2>
             <p>Welcome to official Project Minecraft I.V website.</p>
+        </section>
+
+        <section id="Added">
+            <h2>Added</h2>
+            <ul>
+                <li><strong>New block </strong>
+                <li><strong>New main menu </strong>
+                <li><strong>New textures:</strong>
+                <li><strong>Updates:</strong>
+            </ul>
+        </section>
+
+        <section id="installation">
+            <h2>How to download ?</h2>
+            <ol>
+                <li>Download the release 1.0 of Minecraft I.V from <a href="https://drive.google.com/drive/u/0/folders/1p7nAvUsWR8eOnsnJFv9WVKuq5cIktBov">Google disc</a></li>
+                <li>Extract the files to your launcher folder (: C:\Users\Name\AppData\Roaming\Launcher)</li>
+                <li>Open the Minecraft I.V and enjoy!</li>
+            </ol>
+        </section>
 
         <section id="links">
             <h2>Links</h2>
@@ -68,6 +86,4 @@
             </ul>
         </section>
 
-        <p>&copy; Project Minecraft I.V . Thanks DarkMoonRedRock for code .</p>
-    
-    
+        <p>&copy; Project Minecraft I.V. All rights reserved.</p>
