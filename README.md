@@ -87,4 +87,5 @@
 
     <footer>
         <p>&copy; Project Minecraft I.V. All rights reserved.</p>
-    </footer>
+    
+    
