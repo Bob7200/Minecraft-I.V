@@ -85,6 +85,6 @@
             </ul>
         </section>
 
-        <p>&copy; Project Minecraft I.V. All rights reserved.</p>
+        <p>&copy; Project Minecraft I.V . Thanks DarkMoonRedRock for code .</p>
     
     
