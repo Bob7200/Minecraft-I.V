@@ -69,7 +69,7 @@
         <section id="installation">
             <h2>How to download ?</h2>
             <ol>
-                <li>Download the release 1.0 of Minecraft I.V from <a href="https://drive.google.com/drive/u/0/folders/1p7nAvUsWR8eOnsnJFv9WVKuq5cIktBov">Google disc</a></li>
+                <li>Download the release 1.0 of Minecraft I.V from <a href="https://www.mediafire.com/folder/tmq2aqgd5si00/Minecraft+I.V+1.0+Release">MediaFire</a></li>
                 <li>Extract the files to your launcher folder (: C:\Users\Name\AppData\Roaming\Launcher)</li>
                 <li>Open the Minecraft I.V and enjoy!</li>
             </ol>
