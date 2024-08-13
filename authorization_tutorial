@@ -1,9 +1,0 @@
-CREATE DATABASE IF NOT EXISTS `authorization_tutorial`
-USE `authorization_tutorial`;
-
-CREATE TABLE IF NOT EXISTS `users` (
-  `id` int NOT NULL AUTO_INCREMENT,
-  `login` varchar(50) NOT NULL,
-  `password` varchar(32) NOT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
